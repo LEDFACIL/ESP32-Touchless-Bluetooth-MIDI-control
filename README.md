@@ -4,8 +4,11 @@ Sistema de control MIDI sin contacto y con Bluetooth para DAWs como FL Studio
 Estoy usando Windows 10 Pro 22H2, Arduino IDE 2.3.6, loopMIDI v1.0.16 (27) y FL Studio 2025 Signature Bundle v25.1.6 (build 4997).
 
 Arduino IDE: https://www.arduino.cc/en/software/
+
 loopMIDI: https://www.tobias-erichsen.de/software/loopmidi.html
+
 FL Studio: https://www.image-line.com/
+
 Python: https://www.python.org/
 
 Video con las instrucciones:
