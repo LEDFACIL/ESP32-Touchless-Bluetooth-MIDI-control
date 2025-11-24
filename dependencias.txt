@@ -1,0 +1,9 @@
+@echo off
+echo Instalando dependencias para el bridge MIDI...
+py -m pip install --upgrade pip
+py -m pip install mido
+py -m pip install python-rtmidi
+py -m pip install pyserial
+echo.
+echo Instalacion completada!
+pause
