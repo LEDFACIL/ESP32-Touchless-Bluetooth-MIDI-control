@@ -11,7 +11,7 @@ FL Studio: https://www.image-line.com/
 
 Python: https://www.python.org/
 
-Video con las instrucciones:
+Videos con instrucciones: https://www.youtube.com/playlist?list=PLyXDLkOhTlfUWPU7RFYaP_9m4r7m6UyiT
 
 Si compartís, por favor respetá la autoría de este contenido.
 
