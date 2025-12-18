@@ -19,4 +19,6 @@ Para descargar todos estos recursos de una sola vez, andá al botón verde arrib
 
 Éxito con eso!!!
 
-Damián G. Lasso -> https://lasso-tech.com/ & https://ledfacil.com.ar/
+---
+
+### 🤓 By **Damián G. Lasso** 🌐 [LASSO-TECH](https://lasso-tech.com/) Electrónica aplicada & soluciones.
